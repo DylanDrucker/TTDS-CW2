@@ -1,0 +1,35 @@
+Model: SVC(C=1000, kernel='linear')
+Train accuracy was: 0.9995307052829177
+Test accuracy was: 0.5697050938337802
+
+Model: RandomForestClassifier()
+Train accuracy was: 0.9995307052829177
+Test accuracy was: 0.5839142091152815
+
+Model: GradientBoostingClassifier()
+Train accuracy was: 0.6187315634218289
+Test accuracy was: 0.5798927613941018
+
+Model: LogisticRegression()
+Train accuracy was: 0.9748592115848753
+Test accuracy was: 0.6233243967828418
+
+Model: MultinomialNB()
+Train accuracy was: 0.8513006167873425
+Test accuracy was: 0.6061662198391421
+
+Model: BernoulliNB()
+Train accuracy was: 0.8189863234111022
+Test accuracy was: 0.6
+
+Model: KNeighborsClassifier()
+Train accuracy was: 0.6348216680075087
+Test accuracy was: 0.4978552278820375
+
+Model: DecisionTreeClassifier()
+Train accuracy was: 0.9995307052829177
+Test accuracy was: 0.5262734584450403
+
+Model: MLPClassifier()
+Train accuracy was: 0.9995307052829177
+Test accuracy was: 0.5809651474530831
