@@ -33,3 +33,7 @@ Test accuracy was: 0.5262734584450403
 Model: MLPClassifier()
 Train accuracy was: 0.9995307052829177
 Test accuracy was: 0.5809651474530831
+
+SVC with emoji and double hashtags
+Train accuracy was: 0.9993027995280489
+Test accuracy was: 0.5720720720720721
